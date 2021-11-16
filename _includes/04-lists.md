@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. My family
+- Wife
+- Son
+2. Working from home
