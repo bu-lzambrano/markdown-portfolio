@@ -1,4 +1,4 @@
-## I have left this repo here for my students at Bryan University.
+## Note: I have left this repo here for my students at Bryan University for a lab they must complete. It is not actually monitored or supported.
 
 ## Your GitHub Learning Lab Repository for Communicating Using Markdown
 
